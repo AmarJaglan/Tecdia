@@ -118,7 +118,7 @@ The final sequence reconstruction leverages a **Greedy Nearest-Neighbor** search
 ## Submission Details
 
 - **Author:** Amar Jaglan  
-- **Repository:** **  
+- **Repository:** *https://github.com/AmarJaglan/Tecdia.git*  
 - **Reconstructed Video Link:** *https://drive.google.com/file/d/1KttS1l9o3LJOyNUZinuwv0LG3BuKEcm0/view?usp=sharing*  
 
 
